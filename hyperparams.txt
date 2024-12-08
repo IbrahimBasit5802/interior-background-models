@@ -1,0 +1,6 @@
+steps=1000
+lr_scheduler=constant
+LR=1e-4
+grad_acc_steps=1
+snr_gamma=3.0
+max_grad_norm=1.0
